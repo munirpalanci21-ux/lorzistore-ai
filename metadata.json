@@ -1,0 +1,6 @@
+{
+  "name": "LorziStore",
+  "description": "Premium Dijital Ürün, Oyun Hesabı ve Boost Pazarı Marketplace",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
